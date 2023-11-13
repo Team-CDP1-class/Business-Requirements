@@ -1,4 +1,6 @@
 # Business-Requirements
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8dc924be-b203-469c-a35a-3f357129cc87/b73568c6-8eb3-429a-84e0-39559ca09c2f/Untitled.png)
 ## 사용자 등록 및 사이트 로그인
 
 1. 등록된 사용자만이 해당 서비스를 이용할 수 있다.
