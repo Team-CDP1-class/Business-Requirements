@@ -1,5 +1,6 @@
 # Business-Requirements
-![Business-Requirements](https://github.com/Team-CDP1-class/Business-Requirements/assets/82216606/b1107e44-a34d-4015-b918-2c0d23943c82)
+![Untitled](https://github.com/Team-CDP1-class/Business-Requirements/assets/82216606/72daccd6-07e6-49c9-9b92-3ed9e08ba68c)
+
 
 
 ## 사용자 등록 및 사이트 로그인
